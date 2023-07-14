@@ -1,0 +1,14 @@
+{ 'device': 'cuda',
+  'hidden_size': 64,
+  'critic_lr': 0.001,
+  'actor_lr': 0.001,
+  'loss_type': 'MSE',
+  'replay_buffer_size': 300000,
+  'batch_size': 32,
+  'gamma': 0.98,
+  'soft_tau': 1.e-2,
+  'max_frames': 1000000,
+  'max_steps': 2500,
+  
+  }
+
