@@ -1,12 +1,7 @@
 # Universal robot control in pybullet environment with reinforcement learning
 Universal robot control in pybullet environment
 
-# Results 
-
-Episode rewards             |  Actor loss              | Critic loss
-:-------------------------:|:-------------------------: | :-------------------------:
-![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Episode_reward.png))  |  ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Actor_loss.png) | ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Critic_loss.png)
-
+# Project structure
 
 |Folder name       |                     Description                                    |
 |------------------|--------------------------------------------------------------------|
@@ -14,6 +9,15 @@ Episode rewards             |  Actor loss              | Critic loss
 |`config`            | Config files for training stable_baselines3 and DDPG_torch models                               |
 |`media`          | Media files                |
 |`src`          |  source code             |
+
+# Results 
+
+Episode rewards             |  Actor loss              | Critic loss
+:-------------------------:|:-------------------------: | :-------------------------:
+![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Episode_reward.png))  |  ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Actor_loss.png) | ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Critic_loss.png)
+
+
+
 
 ## Reward design
 
