@@ -5,6 +5,9 @@ Universal robot control in pybullet environment
 ```
 $ pip install git@github.com:Genndoso/UR10_Reach_task.git
 
+
+
+
 ## Usage
 ```
 
