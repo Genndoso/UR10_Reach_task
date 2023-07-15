@@ -17,9 +17,10 @@ Episode rewards             |  Actor loss              | Critic loss
 ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Episode_reward.png))  |  ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Actor_loss.png) | ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Critic_loss.png)
 
 
-
-
 ## Reward design
+Reward is based on L1 distance between end joint of UR10 robot and target position
+$$ \sum{a+b} $$
+
 
 
 ## Install
