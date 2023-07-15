@@ -5,7 +5,7 @@ Universal robot control in pybullet environment
 
 Episode rewards             |  Actor loss              | Critic loss
 :-------------------------:|:-------------------------: | :-------------------------:
-![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Episode_reward.png))  |  ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Actor_loss.png) | ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Critic_loss.png)
+![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Episode_reward.png))  |  ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Actor_loss.png) | ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Critic loss.png)
 
 
 |Folder name       |                     Description                                    |
