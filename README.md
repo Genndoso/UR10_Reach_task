@@ -1,6 +1,11 @@
 # Universal robot control in pybullet environment with reinforcement learning
 Universal robot control in pybullet environment
 
+# Results 
+
+Episode rewards             |  Actor loss              | Critic loss
+:-------------------------:|:-------------------------: | :-------------------------:
+![](https://...Dark.png)  |  ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/media/Actor_loss.png) | ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/media/Critic_loss.png)
 
 |Folder name       |                     Description                                    |
 |------------------|--------------------------------------------------------------------|
