@@ -6,8 +6,6 @@ Universal robot control in pybullet environment
 $ pip install git@github.com:Genndoso/UR10_Reach_task.git 
 
 ## Usage
-
-
 ```
 $ pip install -r requirements.txt
 $ python3 main.py --train True --cold_start True
