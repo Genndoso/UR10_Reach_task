@@ -1,4 +1,4 @@
-# UR10_Reach_task
+# Universal robot control in pybullet environment with reinforcement learning
 Universal robot control in pybullet environment
 
 ## install
