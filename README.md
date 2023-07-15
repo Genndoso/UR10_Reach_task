@@ -19,7 +19,7 @@ Episode rewards             |  Actor loss              | Critic loss
 
 ## Reward design
 Reward is based on L1 distance between end joint of UR10 robot and target position
-$$ \sum{a+b} $$
+$` - \sum_{n=1}^{3}  joint_i - tp_i  `$
 
 
 
