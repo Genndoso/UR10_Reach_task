@@ -1,6 +1,14 @@
 # Universal robot control in pybullet environment with reinforcement learning
 Universal robot control in pybullet environment
 
+
+|Folder name       |                     Description                                    |
+|------------------|--------------------------------------------------------------------|
+|`best_model`   |  Best SACstable_baselines3 model                                         |
+|`config`            | Config files for training stable_baselines3 and DDPG_torch models                               |
+|`media`          | Media files                |
+|`src`          |  source code             |
+
 ## Reward design
 
 
