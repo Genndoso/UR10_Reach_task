@@ -1,6 +1,9 @@
 # Universal robot control in pybullet environment with reinforcement learning
 Universal robot control in pybullet environment
 
+## Reward design
+
+
 ## Install
 ```
 $ pip install git@github.com:Genndoso/UR10_Reach_task.git 
