@@ -35,3 +35,8 @@ Without docker
 
 $ pip install -r requirements.txt
 $ python3 main.py --logdir  --model_dir --type_of_model [stable, torch] --visualize [True, False] --train [True,False] --config_path --path_to_model
+
+With docker (ex)
+
+$ docker build -t $your_image_name$ --build-arg type_of_model=DDPG_torch --build-arg config_path=config/config_torch.yaml --build-arg train=True --build-arg visualize=True .
+
