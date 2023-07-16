@@ -1,5 +1,5 @@
 # Universal robot control in pybullet environment with reinforcement learning
-Universal robot control in pybullet environment
+Universal robot control in pybullet environment. Maximum about 200k timesteps were conducted. Because of lack of computational power I couldn't train the agent.
 
 # Project structure
 
@@ -12,9 +12,11 @@ Universal robot control in pybullet environment
 
 # Results 
 
+[![Rendering](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/vid.mp4)
+
 Episode rewards             |  Actor loss              | Critic loss
 :-------------------------:|:-------------------------: | :-------------------------:
-![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/eval_mean_reward.png))  |  ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Actor_loss.png) | ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Critic_loss.png)
+![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/eval_mean_reward.png)  |  ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Actor_loss.png) | ![](https://github.com/Genndoso/UR10_Reach_task/blob/main/Media/Critic_loss.png)
 
 
 ## Reward design
