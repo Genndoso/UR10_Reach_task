@@ -1,8 +1,12 @@
 gym==0.26.2
 imageio_ffmpeg==0.4.8
 numpy==1.25.0
+opencv_python==4.8.0.74
 pybullet==3.2.5
 PyYAML==6.0
 PyYAML==6.0
 robot_descriptions==1.6.0
 stable_baselines3==2.0.0
+torch==2.0.1
+torchvision==0.15.2
+tqdm==4.65.0
