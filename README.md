@@ -13,9 +13,10 @@ Universal robot control in pybullet environment. Maximum about 200k timesteps we
 # Results 
 
 
+<div align="center">
+  <video src="https://github.com/Genndoso/UR10_Reach_task/assets/53058704/9b51913b-1ea3-4440-90c1-0f525c3bf6ce" width="400" />
 
-https://github.com/Genndoso/UR10_Reach_task/assets/53058704/9b51913b-1ea3-4440-90c1-0f525c3bf6ce
-
+</div>
 
 
 Episode rewards             |  Actor loss              | Critic loss
